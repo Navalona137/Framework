@@ -1,7 +1,6 @@
 package model;
 
 import etu1884.annotation.*;
-import etu1884.obj.*;
 
 @ClassAnnotation
 public class Dept{
@@ -14,5 +13,5 @@ public class Dept{
     public void addDept(){
         System.out.println("findAll");
     }
-    
+
 }
